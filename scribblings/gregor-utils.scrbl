@@ -11,7 +11,7 @@
  Some utility functions around gregor
 }
 
-See also @racketlink["time-scale" "gregor"].
+See also @racketlink[gregor-doc:time-scale "gregor"].
 
 @author[@author+email["Hans Dijkema" "hans@dijkewijk.nl"]]
 
