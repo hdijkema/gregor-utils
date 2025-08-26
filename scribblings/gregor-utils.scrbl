@@ -7,7 +7,13 @@
               racket/string
               ))
 
-@title[#:tag "gregor-utils"]{Some utility functions around the @racketlink{gregor gregor} date module}
+@title[#:tag "gregor-utils"]{
+ Some utility functions around the @racketlink[gregor]{gregor date module}
+}
+
+See also 
+@seclink["top" #:doc '(lib "roos/scribblings/class.scrbl")]{roos/class},
+the interoperability macros for roos and racket/class.
 
 @author[@author+email["Hans Dijkema" "hans@dijkewijk.nl"]]
 
