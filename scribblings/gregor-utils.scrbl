@@ -7,7 +7,7 @@
               racket/string
               ))
 
-@title[#:tag "gregor-utils"]{Some utility functions around the @racketlink{gregor} date module}
+@title[#:tag "gregor-utils"]{Some utility functions around the @racketlink{gregor gregor} date module}
 
 @author[@author+email["Hans Dijkema" "hans@dijkewijk.nl"]]
 
