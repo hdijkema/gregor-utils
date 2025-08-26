@@ -7,10 +7,7 @@
               racket/string
               ))
 
-(define myeval
-   (make-base-eval '(require gregor gregor-utils)))
-
-@title[#:tag "gregor-utils"]{Some utility functions around the gregor date module}
+@title[#:tag "gregor-utils"]{Some utility functions around the @racketlink{gregor} date module}
 
 @author[@author+email["Hans Dijkema" "hans@dijkewijk.nl"]]
 
