@@ -8,7 +8,7 @@
               ))
 
 @title[#:tag "gregor-utils"]{
- Some utility functions around the @other-doc['(lib "gregor-doc/gregor/scribblings/gregor.scrbl") 3:indirect "Gregor date module"].
+ Some utility functions around the @other-doc['(lib "gregor-doc/gregor/scribblings/gregor.scrbl") #:indirect "Gregor date module"].
 }
 
 @author[@author+email["Hans Dijkema" "hans@dijkewijk.nl"]]
