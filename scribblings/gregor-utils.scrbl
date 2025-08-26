@@ -11,7 +11,7 @@
  Some utility functions around gregor
 }
 
-See also @other-doc['(lib "gregor") #:indirect "Gregor date module"].
+See also @racketlink[gregor "gregor"].
 
 @author[@author+email["Hans Dijkema" "hans@dijkewijk.nl"]]
 
