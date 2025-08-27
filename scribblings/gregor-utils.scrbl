@@ -11,7 +11,7 @@
  Some utility functions around gregor
 }
 
-See also @other-doc['(lib "gegor-doc/gregor/scribblings/gregor.scrbl") #:indirect "gregor"].
+See also @hyperlink["https://docs.racket-lang.org/gregor/index.html" "gregor module"].
 
 @author[@author+email["Hans Dijkema" "hans@dijkewijk.nl"]]
 
