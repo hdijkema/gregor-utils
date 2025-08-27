@@ -11,7 +11,7 @@
  Some utility functions around gregor
 }
 
-See also @Secref["time-scale" #:doc "gregor-doc"] gregor.
+See also @other-doc['(lib "gegor-doc/gregor/scribblings/gregor.scrbl") #:indirect "gregor"].
 
 @author[@author+email["Hans Dijkema" "hans@dijkewijk.nl"]]
 
