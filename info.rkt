@@ -12,7 +12,7 @@
   )
 
 (define deps
-  '("base" "gregor"))
+  '("base" "gregor" "tzinfo"))
 
 (define build-deps
   '("racket-doc"
